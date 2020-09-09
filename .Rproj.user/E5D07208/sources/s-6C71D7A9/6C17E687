@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1599576924251.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "116792563",
+    "id" : "6C17E687",
+    "lastKnownWriteTime" : 1555612903,
+    "last_content_update" : 1555612903,
+    "path" : "D:/Git/EY_Data_Science_2019/EY_analytic.R",
+    "project_path" : "EY_analytic.R",
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

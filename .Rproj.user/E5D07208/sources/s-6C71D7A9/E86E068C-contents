@@ -1,0 +1,46 @@
+---
+title: "Main"
+author: "Jackson Leung"
+---
+
+The RMD is created after the competition to summarise what have been done,
+and to put the code in a logical order.
+
+
+This code chunk define all functions from varies sources files.
+
+```{r initilized functions, echo = FALSE}
+
+source('EY_utilities.R', echo=FALSE)
+source('EY_clean_data_v2.R', echo=FALSE)
+source('EY_clean_data_v2.R', echo=FALSE)
+source('EY_clean_data_v2.R', echo=FALSE)
+
+
+```
+
+
+
+This chuck load data from the cvs and challenge manual
+
+```{r load data, echo = FALSE}
+
+initiate() # From EY_utilities.R
+
+```
+
+
+
+This chuck perfrom data cleaning and pre-processing
+
+```{r data preprocessing, echo = FALSE}
+
+data_cleaning() # From EY_clean_data_v2.R
+create_attri() # From EY_clean_data_v2.R
+
+
+```
+
+
+
+

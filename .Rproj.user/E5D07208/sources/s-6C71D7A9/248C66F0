@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1599577027509.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "248C66F0",
+    "lastKnownWriteTime" : 1599579855,
+    "last_content_update" : 1599579855541,
+    "path" : "D:/Git/EY_Data_Science_2019/EY_models.R",
+    "project_path" : "EY_models.R",
+    "properties" : {
+        "cursorPosition" : "8,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 6,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1599581251276.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7A25CF21",
+    "lastKnownWriteTime" : 1557498188,
+    "last_content_update" : 1557498188,
+    "path" : "D:/Git/EY_Data_Science_2019/EY_ideas_3.R",
+    "project_path" : "EY_ideas_3.R",
+    "properties" : {
+        "cursorPosition" : "20,13",
+        "scrollLine" : "8"
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

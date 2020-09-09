@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1599574356460.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "ACE357C8",
+    "lastKnownWriteTime" : 1599576917,
+    "last_content_update" : 1599576917178,
+    "path" : "D:/Git/EY_Data_Science_2019/EY_utilities.R",
+    "project_path" : "EY_utilities.R",
+    "properties" : {
+        "cursorPosition" : "98,0",
+        "scrollLine" : "80",
+        "source_window_id" : "ws2hg1x54996k"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

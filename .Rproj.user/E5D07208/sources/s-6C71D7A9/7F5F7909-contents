@@ -1,0 +1,37 @@
+---
+title: "SOA Predictive Analytics Term Life Sample Problem"
+
+---
+Note: It may be cleaner to use multiple chunks for each section.
+
+Load the data set and summarize the variables
+
+```{r}
+data.termlife <- read.csv(file="TermLife.csv")
+summary(data.termlife)
+```
+
+Data Exploration
+
+```{r}
+
+```
+
+Feature selection
+
+```{r}
+
+```
+
+Model for TERM_FLAG
+
+```{r}
+
+```
+
+Model for FACE
+
+```{r}
+
+```
+
