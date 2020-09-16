@@ -8,7 +8,7 @@ The project involves a lot of exploatory data anaylsis and experiments with vari
 
 The data are provided are in a form of GPS tracking data mobile phones. The data includes a few coordiates and timestamps for each person, which intends to summerize the movement behaviour of that person in a day. The objective of the model is to predict the whether the datapoint after the last provided one will be inside the city center.
 
-The follow plot show the location of people who will enter (red) and not enter (black) the city center in the next hour.
+The follow plot show the location of people who will be in the city center (red) in the next hour and those who will not (black).
 
 <img src = ./Plots/Plot_xy.png>
 
